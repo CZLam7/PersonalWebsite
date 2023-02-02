@@ -1,0 +1,163 @@
+/* ----------------------------- Tag Selector -------------------------------------- */
+
+h1 {
+    font-size: 5rem;
+    margin: 0;
+    font-family: 'Caveat', cursive;
+    color: #66BFBF;
+    line-height: 2;
+    font-size: 400%;
+}
+
+h2{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight:normal;
+}
+
+h3{
+    color:  #11999E;
+}
+
+a{
+    color: #11999E;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 130%;
+}
+
+hr{
+    border-style:dotted;
+    margin: 100px auto;
+    width: 7%;
+    border-width: 10px;
+    border-bottom: 0;
+    color: #cfd9d9ea;
+}
+
+
+/* ----------------------------- Class Selector -------------------------------------- */
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-top: 50px;
+}
+  
+.btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+
+.top-container{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top : 150px;
+}
+
+.medium-container{
+}
+
+.bottom-container{
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 80px;
+    right: 20%;
+}
+
+.bottom-cloud{
+    position:absolute;
+    top: 350px;
+    left: 20%
+}
+
+.mountain{
+    display:inline;
+}
+
+.myImage{
+    width: 200px;
+    padding-top: 50px;
+}
+
+.basketball-img{
+    width: 170px;
+    text-align: center;
+    float: left;
+    margin-right: 15px;
+
+}
+
+.sleeping-img{
+    width: 170px;
+    text-align: center;
+    float: right;
+    margin-left: 15px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 70px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.giphy-embed{
+    text-align:center;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 40px 0 20px;
+}
+
+.personal-details{
+    color: #EAF6F6;
+    font-size: 17px;
+}
+
+.footer-link{
+    display:inline-block;
+    width: 100px;
+    padding: 20px 0;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.footer-link:hover{
+    color:#EAF6F6;
+}
+
+.contact-me{
+    padding-bottom: 60px;
+}
+
+.msg{
+    margin-bottom: 50px;
+}
